@@ -3,3 +3,5 @@
 <p>Convert your assets to minified files</p>
 
 <h4>-> compatible with any PHP Framework </h4>
+
+works with scss , html ,css.js
